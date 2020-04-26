@@ -1,0 +1,30 @@
+
+th {
+		width: 125px;
+	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border-color: darkgreen;
+	height: 35px;
+	text-align: center;
+	background-color: lightgreen;
+	
+}
+
+td {
+	width: 125px;
+	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border-color: darkgreen;
+	height: 25px;
+}
+
+button { 
+width: 50px;
+}
+
+input {
+width: 100px;
+padding: 2px;
+}
